@@ -271,7 +271,7 @@ Sometimes other people say smart things, and you may want to mention those thing
   <cite>Isaac Asimov</cite>
 </blockquote>
 ```
-
+// please note <cite> tag is used for title citations not author names!
 ---
 
 ## Abbreviations
